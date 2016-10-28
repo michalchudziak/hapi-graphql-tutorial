@@ -1,0 +1,19 @@
+{
+  "name": "hapi-graphql-tutorial",
+  "version": "1.0.0",
+  "description": "Hapi.js GraphQL tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michal Chudziak",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^0.3.3",
+    "graphql": "^0.7.2",
+    "graphql-tools": "^0.8.0",
+    "hapi": "^15.2.0",
+    "mongoose": "^4.6.5"
+  }
+}
